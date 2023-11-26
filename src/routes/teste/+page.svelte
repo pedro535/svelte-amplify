@@ -1,7 +1,7 @@
-<div class="bg-purple-400 w-full h-full absolute text-center">
-    <p class="text-5xl font-bold top-1/2 relative text-white">
-        Testing Tab is working
+<div class="container mx-auto py-14">
+    <p class="text-5xl font-bol pb-14">
+        Svelte on AWS Amplify - Teste
     </p>
 
-    <a href="/">Go home</a>
+    <a href="/" class="underline text-blue-700">Home</a>
 </div>
